@@ -1,0 +1,11 @@
+Test Plan very brief
+
+Does it work as expected? Any errors on normal run?
+Are all file inputs and outputs are correct.
+Test what happens when things work, when they fail and at the limits.
+Make sure all the business rules and steps work as they should. Do we know all the business rules are we guessing
+Check that errors are handled correctly. no wild abends
+Make sure the data is correct and nothing is missing or changed. 
+Check that logs and records are saved correctly in new files
+Make sure the script does what it is meant to do!!
+Test that any changes have not broken anything that worked before!!!!
