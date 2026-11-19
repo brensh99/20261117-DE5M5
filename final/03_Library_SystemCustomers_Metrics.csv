@@ -1,0 +1,2 @@
+Dataset,Rows_Before_Cleaning,Rows_After_Cleaning,Columns,Missing_Values_Before,Missing_Values_After,Rows_Removed,Cleaning_Percentage,Rows_Retained_Percentage
+Library System Customers,9,8,2,2,0,1,11.11,88.89
