@@ -1,0 +1,45 @@
+1. Create file paths
+Create a function to tell Python where my data folder is stored.
+Set up the location of the original customer CSV file.
+Set up a location and name for the new cleaned CSV file.
+Make sure both file locations can be passed back and used by the rest of the program.
+2. Load customer data
+Create a function to load the customer data from the CSV file.
+Use pandas to read the file into Python.
+Store the information so I can work with it as a table.
+3. Check / validate customer data
+Create a function to check that the customer data is correct before cleaning it.
+Check that the Customer ID column is present.
+Check that the Customer Name column is present.
+Use a loop to check each of the required columns.
+If a column is missing, show an error message.
+Also check that the CSV file is not empty.
+Stop the program if the data is not suitable to carry on.
+4. Remove missing values
+Create a function to clean the customer data.
+Remove any rows that contain missing or empty values.
+Make a separate copy of the cleaned data so I can work with it.
+5. Save the cleaned data
+Create a function to save the cleaned customer data.
+Save the cleaned information into a new CSV file.
+Make sure the original customer file is not overwritten.
+Do not add an extra numbered column when saving the file.
+6. Bring everything together
+Create a main function to run all the other functions in the correct order.
+First create the file paths.
+Then load the customer data.
+Show the customer data before cleaning.
+Check that the data is valid.
+Remove any missing values.
+Show the customer data after cleaning.
+Save the cleaned data to the new CSV file.
+Display a message to confirm that the file has been saved.
+7. Run the program
+Add a check at the bottom of the code to run the main function.
+Make sure the program starts when I run the Python file directly.
+Overall aim
+Split the code into smaller functions rather than having everything written together.
+Make each function do one particular job.
+Make the code easier to read and understand.
+Make it easier to change or reuse parts of the code in the future.
+Check the data before cleaning it so that problems can be picked up early.
